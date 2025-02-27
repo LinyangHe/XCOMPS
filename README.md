@@ -1,2 +1,2 @@
 # XCOMPS
-A Multilingual Benchmark of Conceptual Minimal Pairs
+We introduce XCOMPS in this work, a multilingual conceptual minimal pair dataset covering 17 languages.
